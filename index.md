@@ -1,4 +1,4 @@
-## Welcome to Juan MAaiglia GitHub Page
+## Welcome to Juan Maaiglia GitHub Page
 ### Data Scientist
 
 You can use the [editor on GitHub](https://github.com/JuanManiglia/Data_S/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
